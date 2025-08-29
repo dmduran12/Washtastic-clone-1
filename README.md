@@ -1,3 +1,5 @@
+Local CLone of https://github.com/valzzu/meshtastic-pcbs.git/WashTastic
+
 # meshtastic-pcbs
 PCBs i've made for meshtastic
 
